@@ -1,0 +1,2 @@
+docker run --rm --init --name dbhub --publish 8080:8080 bytebase/dbhub --transport http --port 8080 --dsn "postgres://sergeygr1717_admin:C6g-RQd-gWW-xTT@postgresql-sergeygr1717.alwaysdata.net:5432/sergeygr1717_telegram_bot?sslmode=disable"
+																		

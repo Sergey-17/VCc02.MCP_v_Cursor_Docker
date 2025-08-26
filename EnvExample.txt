@@ -1,0 +1,18 @@
+# Переменные окружения для API подбрасывания монетки
+# Скопируйте содержимое в файл .env
+
+# Порт для запуска сервера
+PORT=5000
+
+# Режим отладки (True/False)
+DEBUG=False
+
+# Временная зона (опционально)
+TZ=UTC
+
+# Параметры подключения к базе данных PostgreSQL
+DB_HOST=postgresql-sergeygr1717.alwaysdata.net
+DB_PORT=5432
+DB_NAME=sergeygr1717_telegram_bot
+DB_USER=sergeygr1717_admin
+DB_PASSWORD=C6g-RQd-gWW-xTT

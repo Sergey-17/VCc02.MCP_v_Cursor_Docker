@@ -1,0 +1,3 @@
+﻿name,price,old_price,discount_percent,dimensions,sleeping_dimensions,url,image_url
+"Диван ""Комфорт"" угловой с подлокотниками",45000,60000,25,200x80x85 см,160x200 см,https://www.divan.ru/product/test1,https://example.com/image1.jpg
+"Диван ""Уют"" прямой с механизмом еврокнижка",35000,45000,22,180x75x80 см,180x200 см,https://www.divan.ru/product/test2,https://example.com/image2.jpg
